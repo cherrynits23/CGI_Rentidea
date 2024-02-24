@@ -1,0 +1,33 @@
+*{
+    background: lightblue;
+    background-image: url(https://imgv3.fotor.com/images/gallery/Blue-geometric-pattern-background.jpg); 
+}
+/* .container{
+    margin-top: 20px;
+} */
+.container{ 
+    Margin :40px } 
+    
+.col-lg-4{
+        padding-right: 50px;
+    }
+h1{
+    text-align: center;
+    /* font-size: 20px; */
+}
+.card-body, .container{
+    background-color: antiquewhite;
+}
+section{
+    margin-bottom: 0;
+}
+.col-sm-9, .col-sm-3, .mb-0, .mb-4, .my-3, .mb-1{
+    background-color: antiquewhite;
+}
+.btn{
+    background-color: rgb(41, 150, 218);
+    color: white;
+}
+.text-center{
+    padding-bottom: 76px;
+}

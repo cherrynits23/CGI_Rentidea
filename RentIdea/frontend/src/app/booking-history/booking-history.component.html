@@ -1,0 +1,89 @@
+<app-navbar></app-navbar>
+<div class="container main-section background-image-container">
+
+    <div class="row my-orders-card d-flex">
+        <div class="col-md-6" *ngFor="let book of Books1; let i = index">
+            <mat-card class="mb-2">
+                <mat-card-content>
+                    <div class="row ">
+
+                        <div class="col  ">
+                            <mat-card style="background-color: #c1cbd3; border: 0px;">
+                                <mat-card-content>
+                                    <ul class="list-group list-group-item-dark border-0">
+                                        <li class="list-group-item px-3 align-right"
+                                            style="background-color: #cbe0f3; color: #2e2034; padding: 10px;">
+                                            Order ID:
+                                            <span class="float-right">{{ book.orderId }}</span>
+                                        </li>
+
+                                        <li class="list-group-item px-3"
+                                            style="background-color: #cbe0f3; color: #2e2034; padding: 10px;">
+                                            Payer Name:
+                                            <span class="float-right">{{ book.
+                                                payerName }}</span>
+                                        </li>
+                                        <li class="list-group-item px-3"
+                                            style="background-color: #cbe0f3; color: #2e2034; padding: 10px;">
+                                            Payer Email:
+                                            <span class="float-right">{{ book.payerEmail }}</span>
+                                        </li>
+                                        <li class="list-group-item px-3"
+                                            style="background-color: #cbe0f3; color: #2e2034; padding: 10px;">
+                                            Payer Phone:
+                                            <span class="float-right">{{ book.payerPhone }}</span>
+                                        </li>
+                                        <li class="list-group-item px-3"
+                                            style="background-color: #cbe0f3; color: #2e2034; padding: 10px;">
+                                            Date of Transaction:
+                                            <span class="float-right">{{ book.dateTimeofPurchase }}</span>
+                                        </li>
+                                        <li class="list-group-item px-3"
+                                            style="background-color: #cbe0f3; color: #2e2034; padding: 10px;">
+                                            Amount:
+                                            <span class="float-right">{{ book.amount/100 }}</span>
+                                        </li>
+
+                                    </ul>
+                                </mat-card-content>
+                            </mat-card>
+
+                        </div>
+                    </div>
+                </mat-card-content>
+            </mat-card>
+
+        </div>
+
+
+        <div class="row float-right">
+            <div class="col-md-12 d-flex justify-content-center">
+                <div class="form-inline float-end mr-1" style="border: 2px solid black;">
+                    <select class="form-control" [value]="cardsPerPage" (change)="changePageSize($event)">
+                        <Option value="4">
+                            per page 4
+                        </Option>
+                        <Option value="8">
+                            per page 8
+                        </Option>
+                        <Option value="12">
+                            per page 12
+                        </Option>
+                    </select>
+                </div>
+
+                <div class="btn-group ml-4 float-right">
+                    <button class="btn ml-4" 
+                    
+                        >Get Products &rarr;</button>
+                    <button class="btn btn-outline-primary ml-4" *ngFor="let page of PageNumbers"
+                        (click)="changePage(page)" [class.active]="page == selectedPage">{{page}}</button>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- <app-footer></app-footer> -->

@@ -1,0 +1,135 @@
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\appsettings.Development.json
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\appsettings.json
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.exe
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.deps.json
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.runtimeconfig.json
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.pdb
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\DnsClient.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\SharpCompress.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\Snappier.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\ZstdSharp.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.csproj.AssemblyReference.cache
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.AssemblyInfoInputs.cache
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.AssemblyInfo.cs
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.csproj.CoreCompileInputs.cache
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.MvcApplicationPartsAssemblyInfo.cs
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.MvcApplicationPartsAssemblyInfo.cache
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.generatecoin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.build.generatecoin.props
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.generatecoin.props
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.generatecoin.props
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\scopedcss\bundle\generatecoin.styles.css
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.csproj.CopyComplete
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\refint\generatecoin.dll
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.pdb
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.genruntimeconfig.cache
+C:\Entertainment\StackRouteCapstoneProject\Coin Backend\generatecoin\generatecoin\obj\Debug\net6.0\ref\generatecoin.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\appsettings.json
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.exe
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.deps.json
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.runtimeconfig.json
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.pdb
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\DnsClient.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\Snappier.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\realme\Desktop\generatecoin\generatecoin\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.csproj.AssemblyReference.cache
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.AssemblyInfoInputs.cache
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.AssemblyInfo.cs
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.csproj.CoreCompileInputs.cache
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.generatecoin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.build.generatecoin.props
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.generatecoin.props
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.generatecoin.props
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\scopedcss\bundle\generatecoin.styles.css
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.csproj.CopyComplete
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\refint\generatecoin.dll
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.pdb
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.genruntimeconfig.cache
+C:\Users\realme\Desktop\generatecoin\generatecoin\obj\Debug\net6.0\ref\generatecoin.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\appsettings.Development.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\appsettings.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.exe
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.deps.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.runtimeconfig.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\generatecoin.pdb
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\DnsClient.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\SharpCompress.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\Snappier.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\ZstdSharp.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.csproj.AssemblyReference.cache
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.AssemblyInfoInputs.cache
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.AssemblyInfo.cs
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.csproj.CoreCompileInputs.cache
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.MvcApplicationPartsAssemblyInfo.cs
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.MvcApplicationPartsAssemblyInfo.cache
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.generatecoin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.build.generatecoin.props
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.generatecoin.props
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.generatecoin.props
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\scopedcss\bundle\generatecoin.styles.css
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.csproj.CopyComplete
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\refint\generatecoin.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.pdb
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\generatecoin.genruntimeconfig.cache
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\generatecoin\generatecoin\obj\Debug\net6.0\ref\generatecoin.dll

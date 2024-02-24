@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Display Page</title>
+    <link rel="stylesheet" href="my-products.component.css">
+</head>
+<body>
+
+  <div>
+    <app-navbar></app-navbar>
+  </div>
+
+    <div class="container mt-3">
+      <div class="row" >
+          <h1>My Products</h1>
+          <button mat-raised-button color="primary" (click)="navigateToAddProduct()">Add Your Product</button>
+          <div class="col-md-4 mt-3" *ngFor="let g of list">
+            <!-- <div class = "images">
+              <img [src]="getImage(g.productimage)" [alt]="g.productName" width="250" height="250">
+            </div>  -->
+              <mat-card class="example-card" style="padding: 10px" >
+                  <mat-card-header>
+                    <mat-card-title>{{g.productName}}</mat-card-title>
+                  </mat-card-header>
+                  <img mat-card-image [src]="getImage(g.productimage)" [alt]="g.productName" width="300" height="250">
+                  <mat-card-content class="mt-2">
+                    <p> {{g.productDescription}}</p>  
+                    <p>Rs. {{g.productPrice}}/week</p>
+                  </mat-card-content>
+                  <!-- <p>{{g.productId}}</p> -->
+                  <div class="vdbtn">
+                    <button type="button" class="btn btn-primary btn-sm mr-4" style="margin-right:50%; margin-left: 10px;" (click)="viewItem(g.productId)">View</button>
+                  <button  type="button" class="btn btn-danger btn-sm" style="margin-right: 10px; margin-left: 10px;" (click)="deleteItem(g.productId)">Delete</button>
+
+                  </div>
+                  
+                </mat-card>  
+          </div>
+      </div>
+      <!-- <mat-paginator
+    [length]="list?.length"
+    [pageSize]="pageSize"
+    (page)="onPageChange($event)"
+  ></mat-paginator> -->
+    </div>
+    <app-footer></app-footer>
+
+
+
+</body>
+</html>

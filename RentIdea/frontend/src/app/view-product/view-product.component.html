@@ -1,0 +1,31 @@
+<app-navbar></app-navbar>
+
+<div class="container" *ngIf="view">
+  <div class="bainer">
+    <img
+      class="product-image"
+      [src]="getImage(view.productimage)"
+      alt="Product Image"
+    />
+  </div>
+  <div class="product-info">
+    <h1 class="product-name"><b>{{ view.productName }}</b> </h1>
+    <h1 class="Product-price"><b>Price : </b>  <span style="color:red;">&#x20B9;{{ view.productPrice }}.00 /week </span>  <i class='fas fa-tags'></i></h1>
+      <h1 class="product-Manufacturer-data"><b>Company :</b> {{ view.company }}</h1>
+    
+    <p class="product-discrition"><b>Product Description :</b>
+      {{view.productDescription}}
+    </p>
+    
+    <div class="button">
+      <button class="button-buy" (click)="navigateToListProduct()">
+        RENT NOW
+      </button>
+    </div>
+
+    <div *ngIf="showConfirmation">
+      <app-booking></app-booking>
+    </div>
+  </div>
+</div>
+<app-footer></app-footer>

@@ -1,0 +1,49 @@
+<!-- <app-navbar></app-navbar> -->
+<div class="container">
+  <div class="bainer">
+    <div class="bainer-text text1">
+      <h1 class="text" style="color: black;"> &#FFFFFF; Hey! Welcome Back to RentIdea!</h1>
+      <p class="text" style="color: black;">"Rent the dream, leave the maintenance behind."</p>
+    </div>
+    <!-- <div class="bainer-text text2">
+        
+      </div> -->
+    <div class="text3">
+      <p>Please login to book our products and make hassle-free payments.</p>
+    </div>
+  </div>
+  <div class="login">
+    <div></div>
+    <div class="loginField">
+      <h2>Welcome Back!</h2>
+      <p class="Info">     Please enter your account details</p>
+      <form [formGroup]="loginform">
+        <label>Email* <label style="font-size: 12px">(in lowerCase)</label></label> <br />
+        <input formControlName="email" class="gmail" type="email" placeholder="" />
+        <small *ngIf="loginform.controls['email'].dirty && loginform.hasError('required','email')"
+          class="text-danger">*Email is required</small>
+        <br />
+        <br />
+        <label>Password*</label> <br />
+        <input formControlName="password" class="gmail" type="password" placeholder="" />
+        <small *ngIf="loginform.controls['password'].dirty && loginform.hasError('required','password')"
+          class="text-danger">*password is required</small>
+      </form>
+      <br />
+
+      <a href="">
+        <!-- <h5 class="forget mt-0 " (click)="forgetPassword()">Forget Password?</h5> -->
+      </a>
+      <!-- <button class="btn-login">Login</button> -->
+      <button (click)="Onsubmit()" type="submit" class="btn btn-primary btn-block mt-0 w-100">Login</button>
+
+      <!-- <div class="sign-up">
+          <label for="">Don't have an account? </label>
+          <a routerLink='/Register'>Register</a>
+        </div> -->
+      <div class="text-center pt-4 text-muted mb-lg-5 ">Don't have account?
+        <a routerLink='/Register'>Register</a></div>
+    </div>
+  </div>
+</div>
+<!-- <app-footer></app-footer> -->

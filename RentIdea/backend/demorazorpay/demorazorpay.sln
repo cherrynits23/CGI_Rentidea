@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demorazorpay", "demorazorpay\demorazorpay.csproj", "{6AB75BAA-F0EA-4455-BBCA-AC82E721306B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGateway", "APIGateway\APIGateway.csproj", "{103F108F-6F4E-4B73-9179-35B7073095E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB75BAA-F0EA-4455-BBCA-AC82E721306B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB75BAA-F0EA-4455-BBCA-AC82E721306B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB75BAA-F0EA-4455-BBCA-AC82E721306B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB75BAA-F0EA-4455-BBCA-AC82E721306B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103F108F-6F4E-4B73-9179-35B7073095E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103F108F-6F4E-4B73-9179-35B7073095E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103F108F-6F4E-4B73-9179-35B7073095E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103F108F-6F4E-4B73-9179-35B7073095E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {509015FC-7776-49A2-B781-68E53C2F3D0B}
+	EndGlobalSection
+EndGlobal

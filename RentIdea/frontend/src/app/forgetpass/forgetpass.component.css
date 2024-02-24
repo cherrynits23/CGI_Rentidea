@@ -1,0 +1,9 @@
+.contain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25%;
+    font-size: 80px;
+    /* margin: auto; */
+    color: brown;
+  }

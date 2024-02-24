@@ -1,0 +1,95 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  font-size: medium;
+
+.text{
+color: white;
+}
+.text10{
+margin-top: 0px;
+}
+
+  .bainer {
+    display: flex;
+    width: 80%;
+    height: 100%;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+    background-image: url("https://i.ibb.co/C6cFSq0/login.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    flex-direction: column;
+    gap: 161px;
+    /* justify-content: center; */
+    align-items: center;
+  }
+  
+  .login {
+    display: flex;
+    width: 40%;
+    background-color: rgb(219, 216, 232);
+    margin-top: 5px;
+  }
+}
+
+.text1 {
+  margin-top: 5%;
+
+}
+.text2 {
+  margin-top: 12%;
+}
+.text3 {
+  position: absolute; 
+ bottom:2% ;
+
+ left: 13%;
+
+ 
+ 
+}
+
+.loginField {
+  margin: auto;
+  /* margin-top: 5px; */
+  padding: 5px;
+}
+h2 {
+  text-align: center;
+  padding-bottom: 12px;
+}
+.Info {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.gmail {
+  border: none;
+  width: 240px;
+  height: 23px;
+  margin-top: 10px;
+  background-color: rgb(219, 216, 232);
+  border-bottom: 1px solid black;
+  margin-bottom: 10px;
+}
+.forget {
+  text-align: end;
+  margin-top: 10px;
+}
+a {
+  text-decoration: none;
+}
+
+.btn-login {
+  margin: 40px;
+  background-color: black;
+  color: white;
+  border-radius: 6px;
+  width: 180px;
+  height: 35px;
+}
+
+input:focus,textarea:focus{outline:none;}

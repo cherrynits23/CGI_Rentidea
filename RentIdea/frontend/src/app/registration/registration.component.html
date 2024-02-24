@@ -1,0 +1,51 @@
+
+<div class="container-fluid">
+    <!-- <div class="row"> -->
+      <!-- Left Side (60%) -->
+      <div class=" bainer ">
+        <div class="bainer-text text1">
+          <h1 class="text" style="color: black;"> &#FFFFFF; Hey! welcome back to RentIdea!</h1>
+          <p class="text" style="color: black;">"Rent the dream, leave the maintenance behind."</p>
+        </div>
+        <div class="text3">
+          <p>Please Register to book our products and make hassle-free payments.</p>
+        </div>
+      </div>
+  
+      <!-- Right Side (40%) -->
+      <div class="col-lg-4">
+        <div class="panel boarder bg-secondary-subtle">
+          <div class="panel-heading">
+            <h3 class="pt-3 font-weight-bold">Registration</h3>
+          </div>
+          <div class="panel-body p-3 mt-2">
+            <form [formGroup]="Registerform">
+              <div class="form-group pt-3">
+                <div class="input-field">
+                  <span class="fa fa-user p-2"></span>
+                  <input formControlName="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" type="text" placeholder="Email">
+                </div>
+              </div>
+              <small *ngIf="Registerform.controls['email'].dirty && Registerform.hasError('required','email')" class="text-danger">*Email is required</small>
+              <div class="form-group pt-3">
+                <div class="input-field">
+                  <span class="fa fa-lock p-2"></span>
+                  <input formControlName="password" type="password" placeholder="Password">
+                </div>
+              </div>
+              <small *ngIf="Registerform.controls['password'].dirty && Registerform.hasError('required','password')" class="text-danger">*password is required</small>
+              <div class="form-group pt-3">
+                <div class="input-field">
+                  <span class="fa fa-lock p-2"></span>
+                  <input formControlName="confirmpassword" type="password" placeholder="ConfirmPassword">
+                </div>
+              </div>
+              <small *ngIf="Registerform.controls['confirmpassword'].dirty && Registerform.hasError('required','confirmpassword')" class="text-danger">*confirmpassword is required</small>
+              <button type="submit" (click)="Onsignup()" class="btn btn-primary btn-block mt-4 w-100">Register</button>
+              <div class="text-center pt-4 text-muted">Do you have an account? <a id="forget" routerLink="/Login">Login</a></div>
+            </form>
+          </div>
+        </div>
+    </div>
+</div>
+

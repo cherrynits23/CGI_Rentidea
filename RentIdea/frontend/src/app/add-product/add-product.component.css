@@ -1,0 +1,53 @@
+body {
+    background-image: url("../../assets/bgimages/addprodbgimg.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+  }
+  
+  .add-product {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .add-product h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .add-product form {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .add-product .form-group {
+    width: 50%;
+    padding: 10px;
+  }
+  
+  .add-product label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .add-product input, .add-product select {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .add-product button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+  }
+  
+  mat-form-field {
+    margin-right: 12px;
+  }

@@ -1,0 +1,175 @@
+D:\New folder\team\products\products\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder\team\products\products\bin\Debug\net6.0\appsettings.json
+D:\New folder\team\products\products\bin\Debug\net6.0\products.exe
+D:\New folder\team\products\products\bin\Debug\net6.0\products.deps.json
+D:\New folder\team\products\products\bin\Debug\net6.0\products.runtimeconfig.json
+D:\New folder\team\products\products\bin\Debug\net6.0\products.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\products.pdb
+D:\New folder\team\products\products\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\DnsClient.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\SharpCompress.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\Snappier.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\ZstdSharp.dll
+D:\New folder\team\products\products\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\New folder\team\products\products\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\New folder\team\products\products\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\New folder\team\products\products\obj\Debug\net6.0\products.csproj.AssemblyReference.cache
+D:\New folder\team\products\products\obj\Debug\net6.0\products.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\team\products\products\obj\Debug\net6.0\products.AssemblyInfoInputs.cache
+D:\New folder\team\products\products\obj\Debug\net6.0\products.AssemblyInfo.cs
+D:\New folder\team\products\products\obj\Debug\net6.0\products.csproj.CoreCompileInputs.cache
+D:\New folder\team\products\products\obj\Debug\net6.0\products.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\team\products\products\obj\Debug\net6.0\products.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\team\products\products\obj\Debug\net6.0\staticwebassets\msbuild.products.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\team\products\products\obj\Debug\net6.0\staticwebassets\msbuild.build.products.props
+D:\New folder\team\products\products\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.products.props
+D:\New folder\team\products\products\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.products.props
+D:\New folder\team\products\products\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder\team\products\products\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder\team\products\products\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder\team\products\products\obj\Debug\net6.0\scopedcss\bundle\products.styles.css
+D:\New folder\team\products\products\obj\Debug\net6.0\products.csproj.CopyComplete
+D:\New folder\team\products\products\obj\Debug\net6.0\products.dll
+D:\New folder\team\products\products\obj\Debug\net6.0\refint\products.dll
+D:\New folder\team\products\products\obj\Debug\net6.0\products.pdb
+D:\New folder\team\products\products\obj\Debug\net6.0\products.genruntimeconfig.cache
+D:\New folder\team\products\products\obj\Debug\net6.0\ref\products.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\appsettings.json
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\products.exe
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\products.deps.json
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\products.runtimeconfig.json
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\products.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\products.pdb
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\DnsClient.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\Snappier.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\VMAdmin\Downloads\products\products\products\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\products.csproj.AssemblyReference.cache
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\products.AssemblyInfoInputs.cache
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\products.AssemblyInfo.cs
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\products.csproj.CoreCompileInputs.cache
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\products.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\products.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\scopedcss\bundle\products.styles.css
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\products.csproj.CopyComplete
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\products.dll
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\refint\products.dll
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\products.pdb
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\products.genruntimeconfig.cache
+C:\Users\VMAdmin\Downloads\products\products\products\obj\Debug\net6.0\ref\products.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\appsettings.Development.json
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\appsettings.json
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\products.exe
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\products.deps.json
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\products.runtimeconfig.json
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\products.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\products.pdb
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\DnsClient.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\SharpCompress.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\Snappier.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\ZstdSharp.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\products.csproj.AssemblyReference.cache
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\products.AssemblyInfoInputs.cache
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\products.AssemblyInfo.cs
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\products.csproj.CoreCompileInputs.cache
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\products.MvcApplicationPartsAssemblyInfo.cs
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\products.MvcApplicationPartsAssemblyInfo.cache
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\staticwebassets\msbuild.products.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\staticwebassets\msbuild.build.products.props
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.products.props
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.products.props
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\staticwebassets.build.json
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\staticwebassets.development.json
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\scopedcss\bundle\products.styles.css
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\products.csproj.CopyComplete
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\products.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\refint\products.dll
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\products.pdb
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\products.genruntimeconfig.cache
+C:\Entertainment\StackRouteCapstoneProject\Charan Update product\products\products\obj\Debug\net6.0\ref\products.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\appsettings.Development.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\appsettings.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\products.exe
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\products.deps.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\products.runtimeconfig.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\products.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\products.pdb
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\DnsClient.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\SharpCompress.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\Snappier.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\ZstdSharp.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\products.csproj.AssemblyReference.cache
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\products.AssemblyInfoInputs.cache
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\products.AssemblyInfo.cs
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\products.csproj.CoreCompileInputs.cache
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\products.MvcApplicationPartsAssemblyInfo.cs
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\products.MvcApplicationPartsAssemblyInfo.cache
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\staticwebassets\msbuild.products.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\staticwebassets\msbuild.build.products.props
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.products.props
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.products.props
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\staticwebassets.build.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\staticwebassets.development.json
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\scopedcss\bundle\products.styles.css
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\products.csproj.CopyComplete
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\products.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\refint\products.dll
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\products.pdb
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\products.genruntimeconfig.cache
+C:\Entertainment\StackRouteCapstoneProject\RentIdea\backend\products\products\obj\Debug\net6.0\ref\products.dll

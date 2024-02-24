@@ -1,0 +1,82 @@
+<section>
+  <app-navbar></app-navbar>
+    <h1 >User Profile</h1>
+    <div class="container" >
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="card mb-4">
+            <div class="card-body text-center">
+              <img src="https://www.shareicon.net/data/512x512/2016/09/15/829472_man_512x512.png" alt="avatar"
+                class="rounded-circle img-fluid" style="width: 150px;">
+              <h5 class="my-3">{{profiles.firstName}} {{profiles.lastName}}
+              </h5>
+              <p class="text-muted mb-1">{{profiles.email}}</p>
+              <!-- <p class="text-muted mb-4">{{profiles.city}}, {{profiles.state}}</p> -->
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-lg-8">
+          <div class="card mb-4">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-sm-3">
+                  <p class="mb-0">Name</p>
+                </div>
+                <div class="col-sm-9">
+                  <p class="text-muted mb-0">{{profiles.firstName}} {{profiles.lastName}}</p>
+                </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="col-sm-3">
+                  <p class="mb-0">Email</p>
+                </div>
+                <div class="col-sm-9">
+                  <p class="text-muted mb-0">{{profiles.email}}</p>
+                </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="col-sm-3">
+                  <p class="mb-0">Mobile</p>
+                </div>
+                <div class="col-sm-9">
+                  <p class="text-muted mb-0">{{profiles.mobile}}</p>
+                </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="col-sm-3">
+                  <p class="mb-0">address</p>
+                </div>
+                <div class="col-sm-9">
+                  <p class="text-muted mb-0">{{profiles.address}}</p>
+                </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="col-sm-3">
+                  <p class="mb-0">state</p>
+                </div>
+                <div class="col-sm-9">
+                  <p class="text-muted mb-0">{{profiles.state}}</p>
+                </div>
+              </div>
+
+              <hr>
+              <div class="row">
+                <div class="col-sm-3">
+                  
+                </div>
+                
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    <app-footer></app-footer>
+  </section>

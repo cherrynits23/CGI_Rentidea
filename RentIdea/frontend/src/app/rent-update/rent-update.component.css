@@ -1,0 +1,45 @@
+*{
+    background: lightblue;
+}
+#bcc {
+    background-image: url(https://thumbs.dreamstime.com/b/leaf-leaves-falling-autumn-background-ai-generated-content-287981740.jpg);
+    padding: 0 200px;
+    background-attachment: fixed;
+}
+.form-control:focus {
+    box-shadow: none;
+    border-color: #BA68C8
+}
+
+.profile-button {
+    background: rgb(99, 39, 120);
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    background: #682773
+}
+
+.profile-button:focus {
+    background: #682773;
+    box-shadow: none
+}
+
+.profile-button:active {
+    background: #682773;
+    box-shadow: none
+}
+
+.labels {
+    font-size: 11px
+}
+
+
+input, select{
+    background-color: white;
+}
+body,html{
+    width: 100%;
+    height: 100%;
+}
